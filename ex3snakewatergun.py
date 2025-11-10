@@ -1,10 +1,6 @@
-# snake water and gun is a variation of the childrens game rock paper scissors where players use hand gestures to reprsnt a snake, water, or a gun. the gun beats, the water beats the gun and the snake beats the water
-
-#                S W G
-# computer =    -1 0 1
-# player = S -1  D W L
-#          W  0  L D W
-#          G  1  W L D
+# Welcome to the Snake–Water–Gun Game! 🐍💧🔫
+Developed by Mr. Shahbaz ibn Ehfaz, this exciting and fun-filled game brings a classic twist to your screen!
+Test your luck, challenge your reflexes, and see who wins — Snake, Water, or Gun!
 
 
 import random
